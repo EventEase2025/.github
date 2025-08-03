@@ -1,5 +1,9 @@
 ## Development Phase:
-- This app is currently under Development Phase...if u want to know more about the app send a request to become a member
+- This app is currently under development. We're actively building the core features of EventEase!
+
+- If you're interested in contributing and would like to learn more about the app, please send an email to [arindamverma22@gmail.com] with your GitHub username and a brief description of your skills or interests. - - We'll review your request and send you an invitation to the organization.
+
+- Thank you for your interest! We look forward to hearing from you.
 
 # EventEase
 
